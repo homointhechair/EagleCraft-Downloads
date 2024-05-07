@@ -1,28 +1,22 @@
-As you know eaglecraft has been shut down. A lot of people who didn't download before it shut down couldn't get eaglecraft. I have good news. It's back to download for everyone! Download now before this one gets shut down!!!
+# About Eaglercraft
+Play real Minecraft 1.3 & 1.5.2 & 1.8 in any web browser, works on chromebooks.
+This project was made by Lax1Dude & is the real minecraft in your browser.
 
-![OK](https://user-images.githubusercontent.com/119814547/205516681-f8a1329f-78a7-4370-a6db-d98a959a8f34.png)
+# File Downloads
+Click on the github file and then click open raw, next right-click & click save-as or (crtrl + s) and then save & open file in downloaded location.
 
+# Eaglercraft Links
+Eaglercraft Offline 1.3 English US Language  
+https://oncoursemail.github.io/eaglercraft/1.3.html
 
-𝙃𝙊𝙒 𝙏𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿
+Eaglercraft Offline 1.5.2 English US Language  
+https://oncoursemail.github.io/eaglercraft/1.5.2.html
 
-1. Click on "index.html"
-2. Press "Download"
-3. Right click on page and press "Save As"
-4. Open File
+Eaglercraft Offline 1.8 English US Language  
+https://oncoursemail.github.io/eaglercraft/1.8.html  
 
-
-___________________________________________
-      
-
-
-       
-
-
-
-
-      
-
-        
-
-
-DISCLAIMER: I DO NOT WORK FOR EAGLECRAFT!
+Eaglercraft Offline 1.8 International Languages  
+https://oncoursemail.github.io/eaglercraft/1.8_international.html
+# Links Blocked? | Need A Server To Play? | Game Is laggy?
+I made a google doc of every eaglercraft server & client also some Helpful Info.
+https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit?usp=sharing
