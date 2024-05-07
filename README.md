@@ -3,7 +3,7 @@ Play real Minecraft 1.3 & 1.5.2 & 1.8 in any web browser, on any computer.
 This cannot be blocked by Goguardian or CK express, as it runs through a file instead of a link.
 # File Downloads
 Save the version that you want that ends in .HTML
-#1.5.2 works best
+# 1.5.2 works best
 # Eaglercraft Links
 https://oncoursemail.github.io/eaglercraft/1.3.html
 
